@@ -16,3 +16,4 @@ public class Q34 {
         return answer;
     }
 }
+// 다른 사람 풀이 Arrays.sort()
