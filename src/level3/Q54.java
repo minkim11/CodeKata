@@ -1,9 +1,5 @@
 package level3;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
-
 public class Q54 {
     public String solution(int a, int b) {
         String[] day = {"FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU"};
